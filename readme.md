@@ -9,10 +9,9 @@ python setup.py test # visual output
 python setup.py install
 ```
 ## Impressions
-
 #### Quadratic problem
-[QP](/img/newton-convergence.png)
+![](/img/newton-convergence.png)
 #### Rosenbrock function
-[RB](/img/rb-bounded-approx.png)
+![](/img/rb-bounded-approx.png?raw=true)
 #### Bounded rosenbrock function
-[RB2](/img/rb-bounded-full-process.png)
+![](/img/rb-bounded-full-process.png?raw=true)
